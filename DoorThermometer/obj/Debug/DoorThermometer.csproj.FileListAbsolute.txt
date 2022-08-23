@@ -1,0 +1,13 @@
+D:\ComputerScience\Projects_for_GitHub\DoorThermometer\DoorThermometer\bin\Debug\DoorThermometer.exe.config
+D:\ComputerScience\Projects_for_GitHub\DoorThermometer\DoorThermometer\bin\Debug\DoorThermometer.exe
+D:\ComputerScience\Projects_for_GitHub\DoorThermometer\DoorThermometer\bin\Debug\DoorThermometer.pdb
+D:\ComputerScience\Projects_for_GitHub\DoorThermometer\DoorThermometer\bin\Debug\FontAwesome.Sharp.dll
+D:\ComputerScience\Projects_for_GitHub\DoorThermometer\DoorThermometer\obj\Debug\DoorThermometer.csproj.AssemblyReference.cache
+D:\ComputerScience\Projects_for_GitHub\DoorThermometer\DoorThermometer\obj\Debug\DoorThermometer.csproj.SuggestedBindingRedirects.cache
+D:\ComputerScience\Projects_for_GitHub\DoorThermometer\DoorThermometer\obj\Debug\DoorThermometer.Properties.Resources.resources
+D:\ComputerScience\Projects_for_GitHub\DoorThermometer\DoorThermometer\obj\Debug\UI_UX_VIRVOU.Forms.Thermometer.resources
+D:\ComputerScience\Projects_for_GitHub\DoorThermometer\DoorThermometer\obj\Debug\DoorThermometer.csproj.GenerateResource.cache
+D:\ComputerScience\Projects_for_GitHub\DoorThermometer\DoorThermometer\obj\Debug\DoorThermometer.csproj.CoreCompileInputs.cache
+D:\ComputerScience\Projects_for_GitHub\DoorThermometer\DoorThermometer\obj\Debug\DoorThermometer.csproj.CopyComplete
+D:\ComputerScience\Projects_for_GitHub\DoorThermometer\DoorThermometer\obj\Debug\DoorThermometer.exe
+D:\ComputerScience\Projects_for_GitHub\DoorThermometer\DoorThermometer\obj\Debug\DoorThermometer.pdb
